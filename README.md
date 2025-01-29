@@ -19,7 +19,7 @@ Una webapp interactiva para calcular el consumo y propina en restaurantes de man
 
 ## Capturas de Pantalla
 
-![Vista previa](ruta-de-tu-imagen.png)  
+![Vista previa](/public/consumo.png)  
 
 ## Instalación y Ejecución
 
